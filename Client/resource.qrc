@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>img/BBH.jpg</file>
+        <file>img/BLG.jpg</file>
+        <file>img/BLS.jpg</file>
+        <file>img/LAS.jpg</file>
+        <file>img/LYXX.jpg</file>
+        <file>img/MGG.jpg</file>
+        <file>img/PN.jpg</file>
+        <file>img/SGZZ.jpg</file>
+        <file>img/white.jpeg</file>
+        <file>img/bg.jpeg</file>
+    </qresource>
+</RCC>
